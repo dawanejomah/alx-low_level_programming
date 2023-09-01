@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * print_binary - Prints the binary representation of a number
- * @n: The number to be printed in binary
+ * print_binary - print binary representation of a number
+ * @n: number to be printed in binary
  *
- * Return - no return
+ *
+ * Return - void
  */
 
 
